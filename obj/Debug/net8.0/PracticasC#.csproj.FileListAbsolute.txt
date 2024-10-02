@@ -1,0 +1,14 @@
+C:\Users\esteb\work\Projects\PracticasC#\bin\Debug\net8.0\PracticasC#.exe
+C:\Users\esteb\work\Projects\PracticasC#\bin\Debug\net8.0\PracticasC#.deps.json
+C:\Users\esteb\work\Projects\PracticasC#\bin\Debug\net8.0\PracticasC#.runtimeconfig.json
+C:\Users\esteb\work\Projects\PracticasC#\bin\Debug\net8.0\PracticasC#.dll
+C:\Users\esteb\work\Projects\PracticasC#\bin\Debug\net8.0\PracticasC#.pdb
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.AssemblyInfoInputs.cache
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.AssemblyInfo.cs
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.csproj.CoreCompileInputs.cache
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.dll
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\refint\PracticasC#.dll
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.pdb
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.genruntimeconfig.cache
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\ref\PracticasC#.dll
