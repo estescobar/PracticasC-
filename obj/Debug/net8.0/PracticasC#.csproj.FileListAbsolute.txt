@@ -12,3 +12,4 @@ C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\refint\PracticasC#.dll
 C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.pdb
 C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.genruntimeconfig.cache
 C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\ref\PracticasC#.dll
+C:\Users\esteb\work\Projects\PracticasC#\obj\Debug\net8.0\PracticasC#.sourcelink.json

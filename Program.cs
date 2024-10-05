@@ -22,6 +22,18 @@ namespace MyApp
                     Saludo.Run();
                     break;    
 
+                case "3":
+                    Rifa.Run();
+                    break;   
+
+                case "4":
+                    Triangulos.Run();
+                    break;   
+
+                case "5":
+                    Promedio.Run();
+                    break;  
+
                 default:
                     Console.WriteLine("Invalid script number. Please enter 1, 2, or 3.");
                     break;
